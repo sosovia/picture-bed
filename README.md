@@ -1,2 +1,2 @@
 # picture-bed
-picture-bed
+图床
